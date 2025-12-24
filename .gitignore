@@ -19,3 +19,4 @@ xhtml/
 StaleContentReport.*.csv
 .vscode/styles
 .vale/
+#PHIXOR13.md
